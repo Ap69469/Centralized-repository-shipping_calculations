@@ -1,4 +1,5 @@
- # Here is a new update by <Ap69469>
+ # Here is a new update by Amu
+# Here is another update by Amu
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
